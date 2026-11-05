@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>PrismCurrents</string>
+<key>CFBundleName</key><string>Prism Currents</string>
+<key>CFBundleDisplayName</key><string>Prism Currents</string>
+<key>CFBundleIdentifier</key><string>studio.prismcurrents.visualiser</string>
+<key>CFBundleVersion</key><string>1.18.0</string>
+<key>CFBundleShortVersionString</key><string>1.18.0</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>LSMinimumSystemVersion</key><string>11.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSSupportsAutomaticGraphicsSwitching</key><true/>
+<key>NSMicrophoneUsageDescription</key><string>Prism Currents uses your selected audio input to animate the visualiser. Audio is processed on this Mac.</string>
+<key>NSCameraUsageDescription</key><string>Prism Currents maps your live webcam image onto the visualiser when Webcam texture is enabled.</string>
+</dict></plist>
